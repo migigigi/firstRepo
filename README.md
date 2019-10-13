@@ -8,3 +8,5 @@ Feature4: Does some cool stuff.
 Feature3: Does these things.
 
 Control: Controls things.
+
+Feature5: Adds 2 new files in its own directory.
